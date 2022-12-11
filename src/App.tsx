@@ -19,6 +19,10 @@ function App() {
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       ></iframe>
+      <p>
+        The final video is still unfortunately still rendering, but this iframe
+        will be updated with its link as soon as it becomes available.
+      </p>
     </div>
   );
 }
