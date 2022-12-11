@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="w-full h-screen bg-gradient-to-br from-sky-900 to-slate-600 | flex flex-col items-center justify-center p-4 | text-center text-white">
+    <div className="w-full h-screen bg-gradient-to-br from-cyan-800 to-sky-300 | flex flex-col items-center justify-center p-4 | text-center text-white">
       <h2 className="text-lg font-mono">DTB '22 - Cluster 4, Circle 2</h2>
       <h1 className="text-4xl">ReHired Temporary Exhibition</h1>
       <p className="block sm:hidden text-amber-500 font-bold border-2 border-amber-500 rounded-lg my-4">
