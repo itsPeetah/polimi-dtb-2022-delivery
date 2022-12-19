@@ -15,7 +15,7 @@ function App() {
         className=" shadow-2xl m-4"
         width="800"
         height="480"
-        src="https://www.youtube.com/embed/YVHVgBIQKjY"
+        src="https://www.youtube.com/embed/YVHVgBIQKjY?loop=1&allowfullscreen=1"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       ></iframe>
