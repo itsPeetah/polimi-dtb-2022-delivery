@@ -2,7 +2,7 @@
   "name": "dtb-2022-delivery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://itspeetah.github.io/dtb-2022-delivery",
+  "homepage": "https://itspeetah.github.io/polimi-dtb-2022-delivery",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
