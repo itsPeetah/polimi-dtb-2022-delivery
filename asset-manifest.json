@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/polimi-dtb-2022-delivery/static/css/main.7786ff60.css",
-    "main.js": "/polimi-dtb-2022-delivery/static/js/main.3841c42d.js",
+    "main.js": "/polimi-dtb-2022-delivery/static/js/main.263b12c9.js",
     "static/js/787.27ef21d0.chunk.js": "/polimi-dtb-2022-delivery/static/js/787.27ef21d0.chunk.js",
     "index.html": "/polimi-dtb-2022-delivery/index.html",
     "main.7786ff60.css.map": "/polimi-dtb-2022-delivery/static/css/main.7786ff60.css.map",
-    "main.3841c42d.js.map": "/polimi-dtb-2022-delivery/static/js/main.3841c42d.js.map",
+    "main.263b12c9.js.map": "/polimi-dtb-2022-delivery/static/js/main.263b12c9.js.map",
     "787.27ef21d0.chunk.js.map": "/polimi-dtb-2022-delivery/static/js/787.27ef21d0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7786ff60.css",
-    "static/js/main.3841c42d.js"
+    "static/js/main.263b12c9.js"
   ]
 }
